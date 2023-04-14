@@ -10,7 +10,6 @@ defaults:
 jobs:
   test:
     # Setup
-    if: startsWith(github.ref, 'refs/tags/v')
     runs-on: ubuntu-latest
 
     # Go
