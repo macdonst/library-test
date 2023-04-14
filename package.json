@@ -1,5 +1,5 @@
 {
-  "name": "library-test",
+  "name": "integration-tests",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
