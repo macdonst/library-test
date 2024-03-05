@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tape 'test/**/*-test.mjs' | tap-arc"
+    "test": "npx tape 'test/**/*-test.mjs' | npx tap-arc"
   },
   "repository": {
     "type": "git",
